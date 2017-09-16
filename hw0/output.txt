@@ -1,6 +1,6 @@
 ---
 name:
-   first: Abhinav
-   last: Gupta
-email: abhinavg@nyu.edu
-leaderboard: backpropper
+   first: Divya
+   last: Baskaran
+email: db3619@nyu.edu
+leaderboard: db3619
