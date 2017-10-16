@@ -2120,7 +2120,7 @@ head	NN
 again	RB
 in	IN
 Louisianna	NNP
-..	:
+..	NNP
 
 Former	NNP
 Pastor	NNP
@@ -5233,8 +5233,8 @@ in	IN
 France	NNP
 .	.
 
-The	DT
-Rajavis	NN
+The	NNP
+Rajavis	NNP
 ,	,
 Afshari	NNP
 went	VBD
@@ -5586,7 +5586,7 @@ is	VBZ
 just	RB
 a	DT
 stub	NN
-..	:
+..	NN
 waiting	VBG
 for	IN
 someone	NN
@@ -6519,11 +6519,11 @@ moment	NN
 !	.
 
 And	CC
-for	IN
-'	``
-Smartwolf	NN
-'	''
-above	IN
+for	NNP
+'	POS
+Smartwolf	NNP
+'	POS
+above	RB
 ,	,
 think	VBP
 about	IN
@@ -6888,7 +6888,7 @@ Nordau	NNP
 was	VBD
 also	RB
 the	DT
-co	NNP
+co	JJ
 founder	NN
 of	IN
 the	DT
@@ -8098,7 +8098,7 @@ by	IN
 their	PRP$
 works	NNS
 shall	MD
-ye	NN
+ye	RB
 know	VB
 them	PRP
 .	.
@@ -9771,7 +9771,7 @@ What	WP
 do	VBP
 the	DT
 new	JJ
-al	JJ
+al	NNP
 -	HYPH
 Qaeda	NNP
 videotape	NN
@@ -9812,10 +9812,10 @@ to	TO
 capture	VB
 or	CC
 kill	VB
-about	RB
+about	IN
 2	CD
-/	NNP
-3s	NNS
+/	SYM
+3s	CD
 of	IN
 the	DT
 top	JJ
@@ -9936,7 +9936,7 @@ as	IN
 nearly	RB
 500	CD
 other	JJ
-al	JJ
+al	NNP
 -	HYPH
 Qaeda	NNP
 operatives	NNS
@@ -10092,7 +10092,7 @@ unlikely	JJ
 as	RB
 with	IN
 most	JJS
-al	JJ
+al	NNP
 -	HYPH
 Qaeda	NNP
 crackpot	NN
@@ -10559,7 +10559,7 @@ the	DT
 Shiites	NNP
 already	RB
 hate	VBP
-al	JJ
+al	NNP
 -	HYPH
 Qaeda	NNP
 and	CC
@@ -10587,7 +10587,7 @@ solved	VBN
 to	TO
 avoid	VB
 giving	VBG
-al	JJ
+al	NNP
 -	HYPH
 Qaeda	NNP
 an	,
@@ -12478,7 +12478,7 @@ sliver	NN
 of	IN
 Syrian	JJ
 territory	NN
-that	IN
+that	WDT
 Israel	NNP
 annexed	VBD
 after	IN
@@ -13279,7 +13279,7 @@ Tauris	NNP
 )	)
 .	.
 
-THE	DT
+THE	NNP
 DAILY	NNP
 STAR	NNP
 publishes	VBZ
@@ -14610,7 +14610,7 @@ The	DT
 hijackers	NNS
 were	VBD
 obviously	RB
-al	JJ
+al	NNP
 -	HYPH
 Qaeda	NNP
 ,	,
@@ -14660,7 +14660,7 @@ Afghanistan	NNP
 What	WP
 about	RB
 40	CD
-al	NN
+al	NNP
 -	HYPH
 Qaeda	NNP
 bases	NNS
@@ -14994,9 +14994,9 @@ Taliban	NNP
 and	CC
 the	DT
 new	JJ
-military	JJ
+military	NN
 government	NN
-reneged	VBN
+reneged	VBD
 on	IN
 the	DT
 deal	NN
@@ -15490,7 +15490,7 @@ African	NNP
 (	(
 Newsweek	NNP
 reported	VBD
-that	IN
+that	DT
 Bush	NNP
 commanded	VBD
 his	PRP$
@@ -18548,8 +18548,8 @@ satire	NN
 on	IN
 Fallujah	NNP
 ,	,
-see	VB
-Unconfirmed	JJ
+see	VBP
+Unconfirmed	NNP
 Sources	NNS
 which	WDT
 has	VBZ
