@@ -1002,7 +1002,7 @@ Graae	NNP
 Bush	NNP
 also	RB
 nominated	VBD
-A.	NN
+A.	NNP
 Noel	NNP
 Anketell	NNP
 Kramer	NNP
@@ -2638,7 +2638,7 @@ YOU	PRP
 Can	MD
 Live	JJ
 In	IN
-A	NNP
+A	DT
 Beautiful	NNP
 NEW	NNP
 House	NNP
@@ -21368,4 +21368,3 @@ and	CC
 process	NN
 mis-matches	NNS
 .	.
-
